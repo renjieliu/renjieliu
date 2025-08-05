@@ -2,7 +2,7 @@
 
 💼 **Senior Business Intelligence & Data Engineering Consultant**  
 📍 Based in New York | 15+ years in BI, SQL, and Data Automation  
-📧 [Email Me](mailto:theLRJ@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/renjieliu)  
+📧 [Email Me](mailto:the.renjie.liu@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/renjieliu)  
 
 ---
 
