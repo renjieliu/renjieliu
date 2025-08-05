@@ -45,7 +45,7 @@ I am passionate about **data integrity**, **root-cause analysis**, and **enablin
 ---
 
 ## 🛠️ Technical Skills
-- **Languages**: SQL (expert), Python  
+- **Languages**: SQL, Python  
 - **Databases**: SQL Server, Oracle  
 - **BI Tools**: Power BI, SAP Business Objects  
 - **Data Engineering**: ETL, Data Warehousing, Data Profiling  
