@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Renjie Liu  
+# Renjie Liu
 
 💼 **Senior Business Intelligence & Data Engineering Consultant**  
 📍 Based in New York | 15+ years in BI, SQL, and Data Automation  
