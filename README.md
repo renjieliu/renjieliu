@@ -1,23 +1,64 @@
-### Business Intelligence, SQL, automations with Python
-#### 🚀 Languages and Tools I Use
-<br>
-<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
+# 👋 Hi, I'm Renjie Liu  
+
+💼 **Senior Business Intelligence & Data Engineering Consultant**  
+📍 Based in New York | 15+ years in BI, SQL, and Data Automation  
+📧 [Email Me](mailto:theLRJ@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/renjieliu)  
+
+---
+
+## 🚀 About Me
+I’m a **BI/DW professional** with 15+ years of experience delivering data solutions to global organizations (including the United Nations).  
+I specialize in:  
+- Building **data pipelines** and automated ETL processes  
+- Delivering **insights through BI dashboards** (Power BI, SAP BO)  
+- Writing **complex SQL queries** for analytics and transformations  
+- Automating workflows with **Python scripting**  
+- Mentoring teams and leading data initiatives from concept to delivery  
+
+I am passionate about **data integrity**, **root-cause analysis**, and **enabling data-driven decision making**.
+
+---
+
+## 🛠️ Technical Skills
+- **Languages**: SQL (expert), Python  
+- **Databases**: SQL Server, Oracle  
+- **BI Tools**: Power BI, SAP Business Objects  
+- **Data Engineering**: ETL, Data Warehousing, Data Profiling  
+- **Other**: Project Management, Mentoring, Stakeholder Communication  
+
+---
+
+## 📂 Featured Projects
 
 
 
-<h2>⚡️ Where to find me</h2>
-<p>
-<a target="_blank" href="https://twitter.com/theRenjie" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#0f1419" alt="twitter" /></a>
-</p>
+### 🔗 [SQL Portfolio](https://github.com/renjieliu/SQL_Art)  
+*Curated collection of complex SQL queries for analytics & optimization.*  
+- ASCII art with SQL
+- Window functions, recursive CTEs, performance tuning
 
-_###### Generated with https://githubprofile.com/_
+---
 
+### 🔗 [NYC Citi Bike Data Pipeline](https://github.com/renjieliu/citibike-data-pipeline)  
+*End-to-end ETL pipeline project using public Citi Bike data.*  
+- Automated data ingestion & transformation with Python  
+- Loaded into SQL Server for analytics  
+- Built a dynamic map visualization using Folium  
+
+
+---
+
+## 📈 What I'm Working On
+- Expanding my **data engineering portfolio**  
+- Sharing **SQL & Python best practices**  
+
+---
+
+## 📬 Let's Connect
+📧 Email: [Email](mailto:theLRJ@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/renjieliu](https://www.linkedin.com/in/renjieliu)  
+
+<!-- 
+---
+⭐ **Check out my pinned repositories below to see my work in action!**
+-->
