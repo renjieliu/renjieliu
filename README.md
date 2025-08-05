@@ -6,28 +6,6 @@
 
 ---
 
-## 🚀 About Me
-I’m a **BI/DW professional** with 15+ years of experience delivering data solutions to global organizations (including the United Nations).  
-I specialize in:  
-- Building **data pipelines** and automated ETL processes  
-- Delivering **insights through BI dashboards** (Power BI, SAP BO)  
-- Writing **complex SQL queries** for analytics and transformations  
-- Automating workflows with **Python scripting**  
-- Mentoring teams and leading data initiatives from concept to delivery  
-
-I am passionate about **data integrity**, **root-cause analysis**, and **enabling data-driven decision making**.
-
----
-
-## 🛠️ Technical Skills
-- **Languages**: SQL (expert), Python  
-- **Databases**: SQL Server, Oracle  
-- **BI Tools**: Power BI, SAP Business Objects  
-- **Data Engineering**: ETL, Data Warehousing, Data Profiling  
-- **Other**: Project Management, Mentoring, Stakeholder Communication  
-
----
-
 ## 📂 Featured Projects
 
 
@@ -53,6 +31,28 @@ I am passionate about **data integrity**, **root-cause analysis**, and **enablin
 - Sharing **SQL & Python best practices**  
 
 ---
+## 🚀 About Me
+I’m a **BI/DW professional** with 15+ years of experience delivering data solutions to global organizations (including the United Nations).  
+I specialize in:  
+- Building **data pipelines** and automated ETL processes  
+- Delivering **insights through BI dashboards** (Power BI, SAP BO)  
+- Writing **complex SQL queries** for analytics and transformations  
+- Automating workflows with **Python scripting**  
+- Mentoring teams and leading data initiatives from concept to delivery  
+
+I am passionate about **data integrity**, **root-cause analysis**, and **enabling data-driven decision making**.
+
+---
+
+## 🛠️ Technical Skills
+- **Languages**: SQL (expert), Python  
+- **Databases**: SQL Server, Oracle  
+- **BI Tools**: Power BI, SAP Business Objects  
+- **Data Engineering**: ETL, Data Warehousing, Data Profiling  
+- **Other**: Project Management, Mentoring, Stakeholder Communication  
+
+---
+
 
 ## 📬 Let's Connect
 📧 Email: [Email](mailto:theLRJ@gmail.com)  
